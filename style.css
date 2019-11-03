@@ -1,0 +1,67 @@
+ .container{
+    margin-left: 33.3%;
+     margin-right: 33.3%;
+     border: 5px solid black;
+     padding: 10px;
+     background-color: aquamarine
+}
+
+img{ 
+    width: 100%;
+}
+
+h1{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 5px;
+    border-radius: 15px;
+    box-shadow: 5px 5px #888888
+}
+
+.animalName{
+    background-color: white;
+    padding-left: 28px;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    margin-bottom: 8px;
+    box-shadow: 5px 5px #888888
+}
+
+.animalInfo{
+    background-color: white;
+    padding-top: 5px;
+    padding-left: 25px;
+    padding-bottom: 5px;
+    border-radius: 8px;
+    margin-top: 10px;
+    box-shadow: 5px 5px #888888
+}
+
+.animalInfo > p{
+margin: 0px;
+} 
+
+.animalTitle{
+    color: red;
+    font-weight: bold;
+}
+
+.brief{
+    background-color: white;
+    padding-top: 5px;
+    padding-left: 25px;
+    padding-bottom: 5px;
+    padding-right: 15px;
+    border-radius: 8px;
+    margin-top: 10px;
+    box-shadow: 5px 5px #888888
+}
+
+.copyright{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 15px;
+    margin-top: 12px;
+}
